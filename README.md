@@ -1,9 +1,9 @@
-# Ansible Role phantomjs
+# Ansible Role PhantomJS
 
 Library of Ansible plugins and roles for deploying various services.
 See [ansible-roles](https://github.com/davidfischer-ch/ansible-roles) for additional documentation.
 
-This repository hosts the role phantomjs and may depend of other roles and plugins of the library.
+This repository hosts the role PhantomJS and may depend of other roles and plugins of the library.
 
 ## Dependencies
 
