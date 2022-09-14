@@ -19,7 +19,7 @@
         dest: '{{ phantomjs_path }}'
         owner: root
         group: root
-        mode: 0775
+        mode: '775'
         remote_src: yes
   become: yes
   tags: [phantomjs, packages]
